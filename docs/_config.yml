@@ -1,14 +1,14 @@
 # Basic Information 
 title: Yidi Wu
-position: PhD Student
-affiliation: Brown University
-# email: yidi_wu1 (at) brown.edu
+position: PhD Candidate
+affiliation: Brown University 
+email: Econometrics, Statistics
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+keywords: brown university phd student candidate econometrics economics machine learning
+description: My personal website
+canonical: https://eddie1wu.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
