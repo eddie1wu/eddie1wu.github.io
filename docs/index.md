@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a PhD candidate at Brown University with interest in econometrics and machine learning. I am deeply passionate about solving complex real-world problems with an engineering mindset -- improving algorithms, optimizing processes and uncovering hidden facts in data to enable a better understanding of the world around us.
+I am a PhD candidate at Brown University with interest in econometrics and machine learning. I am deeply passionate about solving complex real-world problems with an engineering mindset -- improving algorithms, optimizing processes and uncovering hidden facts in data.
 
 Before joining Brown, I completed my Bachelor's degree at the University of Cambridge and my Master's degree at Imperial College London.
 
@@ -28,7 +28,7 @@ Before joining Brown, I completed my Bachelor's degree at the University of Camb
 -   **Augmenting Economic Data Using Variational Autoencoder:**
     <details>
       <summary>Abstract</summary>
-      Economic data often suffers from being limited or insufficient, making robust inference and prediction challenging. This research explores the usage of variational autoencoders (VAEs) to generate synthetic tabular economic data that closely mirrors the true data distribution. Building on the work of Athey, Imbens, Metzger, and Munro (2021), who use Wasserstein GANs to simulate data from the classic Lalonde datasets, which are widely employed to evaluate causal inference methods, this research applies VAE to the same datasets to demonstrate its capability in simulating tabular data. Beyond cross-sectional data, this study aims to develop VAEs to generate sequential data such as time series. The ultimate goal is to create a systemic way of augmenting economic datasets to enhance the performances of causal inference methods and forecasting models.
+      Economic data often suffers from being limited or insufficient, making robust inference and prediction challenging. This research explores the usage of variational autoencoders (VAE) to generate synthetic tabular economic data that closely mirrors the true data distribution. Building on the work of Athey, Imbens, Metzger, and Munro (2021), who use Wasserstein GANs to simulate data from the classic Lalonde datasets, which are widely employed to evaluate causal inference methods, this research applies VAE to the same datasets to demonstrate its capability in simulating tabular data. Beyond cross-sectional data, this study aims to develop VAEs to generate sequential data such as time series. The ultimate goal is to create a systemic way of augmenting economic datasets to enhance the performances of causal inference methods and forecasting models.
     </details>
     **[Code](https://github.com/eddie1wu/econ_VAE)**
     
@@ -45,12 +45,12 @@ Before joining Brown, I completed my Bachelor's degree at the University of Camb
 -   **[Jun-Aug, 2024]** <ins>Brown University research assistant</ins> for Prof. Soonwoo Kwon and Prof. Jon Roth: wrote R package for inferring causal mechanisms, and constructed confidence intervals for high-dimensional linear regression.
 -   **[Jun-Aug, 2023]** <ins>Brown University research assistant</ins> for Prof. Andriy Norets: implemented Bayesian conditional mixture model with variable number of components in Stan.
 -   **[Sep 2021 - Apr 2022]** <ins>Institute for Fiscal Studies research assistant</ins> for Prof. Eric French: estimated structural models in MATLAB using simulated method of moments to study the economic dynamics of aging.
--   **[Sep 2021 - Feb 2022]** <ins>University of Cambridge research assistant</ins> for Prof. Kai Liu and Prof. Noriko Amano-Patino: conducted event studies on census data and used NLP methods to link and preprocess massive datasets.
+-   **[Sep 2021 - Feb 2022]** <ins>University of Cambridge research assistant</ins> for Prof. Kai Liu and Prof. Noriko Amano-Patino: conducted event studies on census data and used NLP methods to link and preprocess large datasets.
 -   **[Jun-Aug, 2019]** <ins>J.P. Morgan London summer intern</ins> in global markets: exposure to hedging, pricing and risk management of equities, FX and rates derivatives.
 
 
-## Teaching
+## Teaching at Brown University
 
--   **Current lecturer for ECON0170:** Essential Mathematics for Economic Analysis.
--   **TA for ECON2020:** Applied Economic Analysis (R coding).
--   **TA for ECON1630:** Mathematical Econometrics.
+-   **Current lecturer for ECON0170:** Essential Mathematics for Economics.
+-   **Previous TA for ECON2020:** Applied Economic Analysis (R coding).
+-   **Previous TA for ECON1630:** Mathematical Econometrics.
